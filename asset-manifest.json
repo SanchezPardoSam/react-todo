@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SanchezPardoSam/react-todo/static/css/main.2980ca0d.css",
+    "main.js": "/SanchezPardoSam/react-todo/static/js/main.ad2c445a.js",
+    "index.html": "/SanchezPardoSam/react-todo/index.html",
+    "main.2980ca0d.css.map": "/SanchezPardoSam/react-todo/static/css/main.2980ca0d.css.map",
+    "main.ad2c445a.js.map": "/SanchezPardoSam/react-todo/static/js/main.ad2c445a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2980ca0d.css",
+    "static/js/main.ad2c445a.js"
+  ]
+}
